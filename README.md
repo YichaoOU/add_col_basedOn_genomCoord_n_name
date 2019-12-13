@@ -1,8 +1,15 @@
 ## Get Started
 
+
 Append columns from the right table to the left table based on a common name and overlapping genomic locations
 
-Edit line 82 to 93 to specify your need.
+
+### Dependency
+
+**pybedtools** and **pandas**
+
+
+### Edit line 82 to 93 to specify your need.
 
 ```
 
